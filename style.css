@@ -1,0 +1,59 @@
+#searchBtn{
+    color: white;
+    background-color: #F06C4E;
+}
+.searchDiv{
+    margin-top: 100px;
+    margin-left: 400px;
+    width:800px;
+}
+.mealDetailsImage{
+    width: 400px;
+    height: 600px;
+    margin: auto;
+    border-radius: 20px;
+}
+
+.mealDetailsTitle{
+    margin-top: 15px;
+    color: #363958;
+    font-weight: 600;
+}
+
+li{
+    font-size: large;
+}
+ul{
+    list-style-type:none;
+}
+
+.mealImage{
+    width: 100%;
+}
+.mealTitle{
+    text-align: center;
+    margin-top: 10px;
+}
+.mealCard{
+    border-radius: 10px;
+    background-color: #F8F7F5;
+    height: 100%;
+    overflow: hidden;
+    box-shadow:1px 3px 10px gray;
+}
+
+
+#mealDetails{
+    display: none;
+    margin-bottom: 15px;
+    background-color: #F8F7F5;
+    padding: 20px;
+    border-radius: 20px;
+}
+#ingredientTitle{
+    margin-left: 10px;
+}
+#ingredientList{
+    margin-right: 15px;
+
+}
