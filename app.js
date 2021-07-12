@@ -63,7 +63,7 @@ function displayMealDetails(meal) {
     let ingredient = "strIngredient" + i;
     let quantity = "strMeasure" + i;
 
-    if (meal[ingredient] === "" || meal[ingredient] == null) break;
+    //if (meal[ingredient] === "" || meal[ingredient] == null) break;
 
     const li = document.createElement("li");
     li.innerHTML = `
